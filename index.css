@@ -13,3 +13,34 @@ ul{
 dl{
     color: white;
 }
+
+.text-center{
+    text-align: center;
+}
+
+.titulo-principal {
+    text-align: center;
+}
+#título-cor {
+    color: rgb(84, 41, 98);
+}
+
+a:link, a:visited {
+	text-decoration: none
+	}
+a:hover {
+	text-decoration: underline;
+	color: rgb(255, 255, 255)
+	}
+a:active {
+	text-decoration: none
+	}
+    #header-cor{
+        background: rgb(249, 249, 249);
+    }
+    #cor-fonte{
+        color:rgb(51, 17, 62);  
+    }
+    #cor-texto{
+        color: rgb(100, 42, 132);
+    }
